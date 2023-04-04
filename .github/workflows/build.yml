@@ -1,0 +1,17 @@
+name: build
+
+on:
+  push:
+    branches: [ main, dev ]
+
+jobs:
+  build-tgt:
+    name: Build
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/checkout@v2
+      - name: Install dependencies
+        run: |
+          ls
+          apt-get install typst
+          typst --font-path ./fonts resume.typ resume.pdf
