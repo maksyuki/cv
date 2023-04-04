@@ -13,5 +13,8 @@ jobs:
       - name: Install dependencies
         run: |
           ls
-          apt-get install typst
+          wget https://github.com/typst/typst/releases/download/v23-03-28/typst-x86_64-unknown-linux-gnu.tar.gz
+          ls
+          tar -xvf typst-x86_64-unknown-linux-gnu.tar.gz
+          ls
           typst --font-path ./fonts resume.typ resume.pdf
