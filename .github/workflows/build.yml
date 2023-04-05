@@ -17,4 +17,5 @@ jobs:
           ls
           tar -xvf typst-x86_64-unknown-linux-gnu.tar.gz
           ls
-          typst --font-path ./fonts resume.typ resume.pdf
+          typst-x86_64-unknown-linux-gnu/typst --font-path ./fonts resume.typ resume.pdf
+          ls
