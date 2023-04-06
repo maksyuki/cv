@@ -8,20 +8,18 @@ jobs:
   build-tgt:
     name: Build
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v3
       - name: Install dependencies
         run: |
-          echo "=========="
-          ls
-          echo "=========="
           wget https://github.com/typst/typst/releases/download/v23-03-28/typst-x86_64-unknown-linux-gnu.tar.gz
-          echo "=========="
-          ls
           tar -xvf typst-x86_64-unknown-linux-gnu.tar.gz
-          echo "=========="
-          ls
           typst-x86_64-unknown-linux-gnu/typst --font-path ./fonts resume.typ resume.pdf
-          echo "=========="
-          ls
-          echo "=========="
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: 'chore: compile and release new cv'
+          branch: feat-cv
+          file_pattern: '*.pdf'
+

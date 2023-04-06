@@ -2,12 +2,12 @@
 
 #show: chicv
 
-= Chi Zhang
+= Miao Yuchi
 
-#fa[#envelope] skyzh\@cmu.edu |
-#fa[#github] #link("https://github.com/skyzh")[github.com/skyzh] |
-#fa[#globe] #link("https://skyzh.dev")[skyzh.dev] |
-#fa[#linkedin] #link("https://www.linkedin.com/in/alex-chi-skyzh/")[alex-chi-skyzh]
+#fa[#envelope] maksyuki\@cmu.edu |
+#fa[#github] #link("https://github.com/maksyuki")[github.com/maksyuki] |
+#fa[#globe] #link("https://maksyuki.dev")[maksyuki.dev] |
+#fa[#linkedin] #link("https://www.linkedin.com/in/alex-chi-maksyuki/")[alex-chi-maksyuki]
 
 == Education
 #cventry(
@@ -93,10 +93,10 @@
 
 #cventry(
   tl: "Personal Projects",
-  tr: "5.3k followers " + iconlink(text: "skyzh", icon: github, "https://github.com/skyzh")
+  tr: "5.3k followers " + iconlink(text: "maksyuki", icon: github, "https://github.com/maksyuki")
 )[
-  - *#iconlink(icon: github, text: "mini-lsm", "https://github.com/skyzh/mini-lsm")* (#fa[#star]1k) Build a simple LSM-Tree storage system in Rust in a week
-  - *#iconlink(icon: github, text: "type-exercise-in-rust", "https://github.com/skyzh/mini-lsm")* (#fa[#star]1k) Learn Rust generics by implementing a vectorized expression evaluation framework
+  - *#iconlink(icon: github, text: "mini-lsm", "https://github.com/maksyuki/mini-lsm")* (#fa[#star]1k) Build a simple LSM-Tree storage system in Rust in a week
+  - *#iconlink(icon: github, text: "type-exercise-in-rust", "https://github.com/maksyuki/mini-lsm")* (#fa[#star]1k) Learn Rust generics by implementing a vectorized expression evaluation framework
 ]
 
 #align(right, text(fill: gray)[Last Updated on Mar 30, 2023])
