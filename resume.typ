@@ -4,25 +4,25 @@
 
 = Miao Yuchi
 
-#fa[#envelope] maksyuki\@cmu.edu |
+#fa[#envelope] maksyuki@126.com |
 #fa[#github] #link("https://github.com/maksyuki")[github.com/maksyuki] |
-#fa[#globe] #link("https://maksyuki.dev")[maksyuki.dev] |
-#fa[#linkedin] #link("https://www.linkedin.com/in/alex-chi-maksyuki/")[alex-chi-maksyuki]
+#fa[#globe] #link("http://maksyuki.com/")[maksyuki.com] |
+#fa[#twitter] #link("https://twitter.com/maksyuki")[maksyuki]
 
 == Education
 #cventry(
-  tl: "Carnegie Mellon University",
-  tr:  "2022/08 - 2023/12 (Expected)",
-  bl: "Master of Science in Computer Science, GPA 4.09/4.33",
-  br: "Pittsburgh, PA, USA"
+  tl: "Northwestern Polytechnical University",
+  tr:  "2019/09 - 2022/07",
+  bl: "Master of Science in Computer Science",
+  br: "Xi'an, Shaanxi, China"
 )[
   - Teaching Assistant for 15-445/645 Database Systems (Fall 2022, Spring 2023)
 ]
 #cventry(
-  tl: "Shangehai Jiao Tong University",
+  tl: "Northwestern Polytechnical University",
   tr: "2018/09 - 2022/06",
   bl: "B. Eng in Computer Science and Technology",
-  br: "Shangehai, China"
+  br: "Xi'an, Shaanxi, China"
 )[
   - GPA 93.80/100, Rank 1/149, National Scholarship 2019 (Top 0.2% national-wide)
   - A+ Courses: Operating Systems, Computer Architecture, Computer Networks, and 28 others
