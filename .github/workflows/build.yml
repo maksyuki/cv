@@ -23,4 +23,5 @@ jobs:
           branch: feat-cv
           create_branch: true
           file_pattern: '*.pdf'
+          push_options: '--force'
 
