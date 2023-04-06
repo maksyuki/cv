@@ -12,16 +12,28 @@
 == Education
 #cventry(
   tl: "Northwestern Polytechnical University",
-  tr:  "2019/09 - 2022/07",
-  bl: "Master of Science in Computer Science",
+  tr:  "2021/09 - 2022/07",
+  bl: "Institute of Precision Guidance and Control, School of Aerospace",
   br: "Xi'an, Shaanxi, China"
 )[
+  - Master of Control Engineering
   - Teaching Assistant for 15-445/645 Database Systems (Fall 2022, Spring 2023)
 ]
+
 #cventry(
   tl: "Northwestern Polytechnical University",
-  tr: "2018/09 - 2022/06",
-  bl: "B. Eng in Computer Science and Technology",
+  tr:  "2020/08 - 2021/07",
+  bl: "Ningbo Research Institute, NWPU",
+  br: "Ningbo, Zhejiang, China"
+)[
+  - Master of Control Engineering(Graduation practice)
+  - Teaching Assistant for 15-445/645 Database Systems (Fall 2022, Spring 2023)
+]
+
+#cventry(
+  tl: "Northwestern Polytechnical University",
+  tr: "2013/09 - 2018/06",
+  bl: "B. Eng in Detection, Guidance and Control Technology, School of Aerospace",
   br: "Xi'an, Shaanxi, China"
 )[
   - GPA 93.80/100, Rank 1/149, National Scholarship 2019 (Top 0.2% national-wide)
