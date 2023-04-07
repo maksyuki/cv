@@ -115,8 +115,6 @@
   tl: "Research"
   tr: "2019 - Now"
 )[
-  - 
-  - Bronze, The 2016 Asia EC-Final of International Collegiate Programming Contest(ACM-ICPC)
   - Swarm and Collaborative Cubesat Rovers to Explore Lunar Lava Tubes
 ]
 
