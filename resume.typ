@@ -105,10 +105,26 @@
 
 #cventry(
   tl: "Personal Projects",
-  tr: "5.3k followers " + iconlink(text: "maksyuki", icon: github, "https://github.com/maksyuki")
+  tr: "54 followers " + iconlink(text: "maksyuki", icon: github, "https://github.com/maksyuki")
 )[
   - *#iconlink(icon: github, text: "mini-lsm", "https://github.com/maksyuki/mini-lsm")* (#fa[#star]1k) Build a simple LSM-Tree storage system in Rust in a week
   - *#iconlink(icon: github, text: "type-exercise-in-rust", "https://github.com/maksyuki/mini-lsm")* (#fa[#star]1k) Learn Rust generics by implementing a vectorized expression evaluation framework
 ]
 
-#align(right, text(fill: gray)[Last Updated on Mar 30, 2023])
+#cventry(
+  tl: "Research"
+)[
+  - 
+  - Bronze, The 2016 Asia EC-Final of International Collegiate Programming Contest(ACM-ICPC)
+  - Swarm and Collaborative Cubesat Rovers to Explore Lunar Lava Tubes
+]
+
+#cventry(
+  tl: "Honors & Rewards"
+)[
+  - Second Prize, the Taichi Graphics course(2022)
+  - First place, the Nuclei RISC-V embedded development course(2021)
+  - First class graduate scholarship(2019)
+  - Bronze, the 2016 Asia EC-Final of International Collegiate Programming Contest(ACM-ICPC)
+  - Bronze, the 2015 China Collegiate Programming Contest(CCPC)
+]
