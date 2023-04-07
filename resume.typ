@@ -113,6 +113,7 @@
 
 #cventry(
   tl: "Research"
+  tr: "2019 - Now"
 )[
   - 
   - Bronze, The 2016 Asia EC-Final of International Collegiate Programming Contest(ACM-ICPC)
@@ -121,6 +122,7 @@
 
 #cventry(
   tl: "Honors & Rewards"
+  tr: "2015 - Now"
 )[
   - Second Prize, the Taichi Graphics course(2022)
   - First place, the Nuclei RISC-V embedded development course(2021)
