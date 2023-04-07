@@ -112,14 +112,14 @@
 ]
 
 #cventry(
-  tl: "Research"
+  tl: "Research",
   tr: "2019 - Now"
 )[
   - Swarm and Collaborative Cubesat Rovers to Explore Lunar Lava Tubes
 ]
 
 #cventry(
-  tl: "Honors & Rewards"
+  tl: "Honors & Rewards",
   tr: "2015 - Now"
 )[
   - Second Prize, the Taichi Graphics course(2022)
