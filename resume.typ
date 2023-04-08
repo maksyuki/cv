@@ -115,7 +115,8 @@
   tl: "Research",
   tr: "2019 - Now"
 )[
-  - Swarm and Collaborative Cubesat Rovers to Explore Lunar Lava Tubes
+  - (National Natural Science Foundation of China)
+  - Swarm and Collaborative Cubesat Rovers to Explore Lunar Lava Tubes(Preprint)
 ]
 
 #cventry(
