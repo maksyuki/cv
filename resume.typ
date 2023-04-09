@@ -107,8 +107,7 @@
   tl: "Personal Projects",
   tr: "54 followers " + iconlink(text: "maksyuki", icon: github, "https://github.com/maksyuki")
 )[
-  - *#iconlink(icon: github, text: "mini-lsm", "https://github.com/maksyuki/mini-lsm")* (#fa[#star]1k) Build a simple LSM-Tree storage system in Rust in a week
-  - *#iconlink(icon: github, text: "type-exercise-in-rust", "https://github.com/maksyuki/mini-lsm")* (#fa[#star]1k) Learn Rust generics by implementing a vectorized expression evaluation framework
+  - *#iconlink(icon: github, text: "TaichiGAME", "https://github.com/maksyuki/TaichiGAME")* (#fa[#star]43) GPU Accelerated Motion Engine based on Taichi Lang
 ]
 
 #cventry(
