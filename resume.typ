@@ -114,7 +114,8 @@
   tl: "Research",
   tr: "2019 - Now"
 )[
-  - (National Natural Science Foundation of China)
+  - Research on Hopping Trajectory Planning for Asteroid Surface Exploration with Micro Irregular Gravity Fields(National Natural Science Foundation of China)
+  - Analysis of Key Technology in Asteroid Rover GNC System with Micro Irregular Gravity Fields(Conference paper)
   - Swarm and Collaborative Cubesat Rovers to Explore Lunar Lava Tubes(Preprint)
 ]
 
