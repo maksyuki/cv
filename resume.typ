@@ -111,6 +111,17 @@
 ]
 
 #cventry(
+  tl: "Professional Skills",
+  tr: "2019 - Now"
+)[
+  - Proficient in C/C++, JavaScript, Python, Rust, Verilog, Familiar with ES6, WASM
+  - Proficient in Algorithms and Data Structures, Computer Architecture,
+  - Proficient in FPGA development, 
+  - Proficient in Linux OS, Shell and Make tools.
+  - Proficient in Git and collaborative development process, Experience in maintaining open source code
+]
+
+#cventry(
   tl: "Research",
   tr: "2019 - Now"
 )[
