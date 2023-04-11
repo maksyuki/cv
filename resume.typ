@@ -81,8 +81,8 @@
 == Open-Source Contributions
 
 #cventry(
-  tl: "cmu-db/busttub" + " " + iconlink("https://github.com/cmu-db/bustub", icon: github),
-  tr: "2022/08 - Now"
+  tl: "microdynamics-cpu/tree-core-ide" + " " + iconlink("https://github.com/microdynamics-cpu/tree-core-ide", icon: github),
+  tr: "2020/12 - Now"
 )[
   - Lead the development of the BusTub database system. Added SQL support/query processing layer to the system.
   - Redesigned course projects to help students better understand the concepts and apply them to real-world scenarios. Developed leaderboard tests to challenge advanced students and enable further study.
@@ -115,8 +115,8 @@
   tr: "2019 - Now"
 )[
   - Proficient in C/C++, JavaScript, Python, Rust, Verilog, Familiar with ES6, WASM
-  - Proficient in Algorithms and Data Structures, Computer Architecture,
-  - Proficient in FPGA development, 
+  - Proficient in Algorithms and Data Structures, Computer Architecture, 
+  - Proficient in FPGA development
   - Proficient in Linux OS, Shell and Make tools.
   - Proficient in Git and collaborative development process, Experience in maintaining open source code
 ]
