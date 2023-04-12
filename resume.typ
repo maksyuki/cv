@@ -85,8 +85,6 @@
   tr: "2020/12 - Now"
 )[
   - Lead the development of the BusTub database system. Added SQL support/query processing layer to the system.
-  - Redesigned course projects to help students better understand the concepts and apply them to real-world scenarios. Developed leaderboard tests to challenge advanced students and enable further study.
-
 ]
 
 #cventry(
