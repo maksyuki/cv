@@ -41,10 +41,10 @@
 ]
 == Work Experience
 #cventry(
-  tl: "RisingWave Labs",
-  tr: "2021/08 - 2022/07",
-  bl: "Database System R&D Intern",
-  br: "Shanghai, China"
+  tl: "Pengcheng National Laboratory",
+  tr: "2021/08 - Now",
+  bl: "open-source EDA software engineer",
+  br: "Shenzhen, China"
 )[
   - *Top contributor of #iconlink(
     "https://github.com/risingwavelabs/risingwave",
