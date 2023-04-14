@@ -110,6 +110,7 @@
   tl: "Honors & Rewards",
   tr: "2015 - Now"
 )[
+  - Winning Prize, RISC-V Ecological Innovation and Entrepreneurship Competition Final Roadshow(2022)
   - Second Prize, the Taichi Graphics course(2022)
   - First place, the Nuclei RISC-V embedded development course(2021)
   - First class graduate scholarship(2019)
