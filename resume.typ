@@ -56,28 +56,6 @@
   - *Mentoring*. Mentored database kernel interns and helped their integration into the team. Maintained overview documents of the database kernel to facilitate knowledge transfer and help new hires learn about the system.
 ]
 
-#cventry(
-  tl: "ByteDance, Ltd.",
-  tr: "2021/06 - 2021/08",
-  bl: "Storage System R&D Intern, TerarkDB Team",
-  br: "Beijing, China"
-)[
-  - *Co-Optimized #iconlink(text: "TerarkDB", icon: github, "https://github.com/bytedance/terarkdb")* and *#iconlink(text: "ZenFS", icon: github, "https://github.com/westerndigitalcorporation/zenfs")*. Implemented Zone-aware Garbage Collection in TerarkDB and WAL-Aware Zone Allocator in ZenFS, which reduced 3-4x of space amplification and improved the p999 tail latency by 100x
-  /*
-  - Implemented *Zone-Aware Garbage Collection* in *TerrakDB* for Zoned Namespace SSDs, which reduced 3-4x of space amplification caused by interleaving write lifetime in a single ZNS zone. #iconlink("https://github.com/bytedance/terarkdb", icon: github)
-  - Added observability facilities to *ZenFS* (by Western Digital) to analyze bottlenecks and implemented a *WAL-Aware Zone Allocator*, which reduced the p999 tail latency by 100x. #iconlink("https://github.com/bzbd/zenfs", icon: github)
-  */
-]
-
-#cventry(
-  tl: "PingCAP, Inc.",
-  tr: "2020/08 - 2021/01",
-  bl: "Storage System R&D Intern",
-  br: "Shanghai, China"
-)[
-  - Built LSM-based storage engine *#iconlink("https://github.com/tikv/agatedb", icon: github, text: "AgateDB")* from ground-up. Inspired by WiscKey and BadgerDB, AgateDB separates large vallues from LSM tree into value log, so as to reduce write amplification.
-]
-
 == Open-Source Contributions
 
 #cventry(
