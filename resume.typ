@@ -66,20 +66,6 @@
 ]
 
 #cventry(
-  tl: "RisingLight Community" + " " + iconlink("https://github.com/risinglightdb", icon: github),
-  tr: "2022/01 - Now",
-)[
-  - Lead the development of *RisingLight*, an OLAP database system for educational purpose.
-]
-
-#cventry(
-  tl: "TiKV Community" + " " + iconlink("https://github.com/tikv", icon: github),
-  tr: "2020/05 - Now"
-)[
-  - Maintains *TiKV Coprocessor*, the push-down execution framework of TiDB. Mentored community members to contribute features (e.g. new data types, plugin system) in the *LFX Mentorship*. #iconlink("https://github.com/tikv/tikv/issues/9066")  #iconlink("https://github.com/tikv/tikv/issues/9747")
-]
-
-#cventry(
   tl: "Personal Projects",
   tr: "54 followers " + iconlink(text: "maksyuki", icon: github, "https://github.com/maksyuki")
 )[
