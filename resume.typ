@@ -36,8 +36,6 @@
   bl: "B. Eng in Detection, Guidance and Control Technology, School of Aerospace",
   br: "Xi'an, Shaanxi, China"
 )[
-  - GPA 93.80/100, Rank 1/149, National Scholarship 2019 (Top 0.2% national-wide)
-  - A+ Courses: Operating Systems, Computer Architecture, Computer Networks, and 28 others
 ]
 == Work Experience
 #cventry(
