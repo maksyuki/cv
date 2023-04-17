@@ -44,14 +44,7 @@
   bl: "open-source EDA software engineer",
   br: "Shenzhen, China"
 )[
-  - *Top contributor of #iconlink(
-    "https://github.com/risingwavelabs/risingwave",
-    text: "RisingWave",
-    icon: github)* _as of 2023/03_. RisingWave is a database system with PostgreSQL-compatible interface that incrementally maintains materialized views. Worked on the development of almost all components related to stream computing and state store.
-  - *Streaming Index Joins*: Designed shared state and streaming index in RisingWave; implemented index lookup join executor; implemented delta join DAG optimizer transformations; implemented distributed delta join scheduler
-  - *Performance Improvement*: Conducted intensive benchmarks and analyzed performance issues. Fixed bugs, proposed strategies, and led cross-team collaboration which improved the system throughput by 10x in a 3-month period
-  - *Developer Experience*. Initiated the RiseDev development tool to start a RisingWave cluster with one command, which is deeply integrated into the development workflow across unit testing, integration testing, and benchmarking. Built RisingWave Streaming Dashboard that shows cluster metrics and visualizes streaming query plans in one place
-  - *Mentoring*. Mentored database kernel interns and helped their integration into the team. Maintained overview documents of the database kernel to facilitate knowledge transfer and help new hires learn about the system.
+ - test
 ]
 
 == Open-Source Contributions
@@ -60,7 +53,7 @@
   tl: "microdynamics-cpu/tree-core-ide" + " " + iconlink("https://github.com/microdynamics-cpu/tree-core-ide", icon: github),
   tr: "2020/12 - Now"
 )[
-  - Lead the development of the BusTub database system. Added SQL support/query processing layer to the system.
+  - test
 ]
 
 #cventry(
