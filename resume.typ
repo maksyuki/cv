@@ -51,10 +51,10 @@
 == Open-Source Contributions
 
 #cventry(
-  tl: "microdynamics-cpu/tree-core-ide" + " " + iconlink("https://github.com/microdynamics-cpu/tree-core-ide", icon: github),
+  tl: "TreeCore" + " " + iconlink("https://github.com/microdynamics-cpu/", icon: github),
   tr: "2020/12 - Now"
 )[
-  - test
+  - TreeCore contains a bundle of tools which aims to improve development experience of processor design. Now it mainly focus on processor frontend and system software field. We hope it can integrate multiple components to build a common workflow for agile hardware development from frontend to backend one day.
 ]
 
 #cventry(
