@@ -62,6 +62,7 @@
   tr: "54 followers " + iconlink(text: "maksyuki", icon: github, "https://github.com/maksyuki")
 )[
   - *#iconlink(icon: github, text: "TaichiGAME", "https://github.com/maksyuki/TaichiGAME")* (#fa[#star]43) GPU Accelerated Motion Engine based on Taichi Lang
+  - 
 ]
 
 #cventry(
