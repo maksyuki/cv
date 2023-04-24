@@ -17,7 +17,6 @@
   br: "Xi'an, Shaanxi, China"
 )[
   - Master of Control Engineering
-  - Teaching Assistant for 15-445/645 Database Systems (Fall 2022, Spring 2023)
 ]
 
 #cventry(
@@ -27,7 +26,6 @@
   br: "Ningbo, Zhejiang, China"
 )[
   - Master of Control Engineering(Graduation practice)
-  - Teaching Assistant for 15-445/645 Database Systems (Fall 2022, Spring 2023)
 ]
 
 #cventry(
@@ -44,8 +42,6 @@
   bl: "open-source EDA software engineer",
   br: "Shenzhen, China"
 )[
- - test
- - test
 ]
 
 == Open-Source Contributions
