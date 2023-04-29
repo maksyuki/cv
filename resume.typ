@@ -41,6 +41,7 @@
   tr: "2021/08 - Now",
   bl: "open-source EDA software engineer",
   br: "Shenzhen, China"
+  
 )[
 ]
 
