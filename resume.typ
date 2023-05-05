@@ -53,6 +53,7 @@
 )[
   - TreeCore contains a bundle of tools which aims to improve development experience of processor design. Now it mainly focus on processor frontend and system software field. We hope it can integrate multiple components to build a common workflow for agile hardware development from frontend to backend one day.
   - Test
+  - Test
 ]
 
 #cventry(
