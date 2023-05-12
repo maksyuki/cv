@@ -71,6 +71,7 @@
   - Proficient in FPGA development
   - Proficient in Linux OS, Shell and Make tools.
   - Proficient in Git and collaborative development process, Experience in maintaining open source code
+  - test
 ]
 
 #cventry(
