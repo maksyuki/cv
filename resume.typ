@@ -1,5 +1,6 @@
 #import "chicv.typ": *
 
+
 #show: chicv
 
 = Miao Yuchi
